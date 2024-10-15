@@ -1,0 +1,21 @@
+change description to just sku - done
+create a new item for each accessory - done
+	update the pricing to account for dealer discount - notdone
+
+create function to properly format the dates - done
+	the expected shipment date needs to fall after both the sales order date and current date - done
+	
+generate a new function to build sku dictionary from the excel doc
+
+customize the sku to reference the type - done (need to add all types) 
+	C-ML = Molding\
+	C-BS = Base cabinet 
+	C-FP = Filler
+	C-WL = Wall Cabinet
+	C-TL = Tall Cabinet
+	
+	
+        
+        
+	
+

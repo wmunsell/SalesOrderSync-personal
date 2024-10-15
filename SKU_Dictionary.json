@@ -1,0 +1,131 @@
+{
+    "Structure": [
+        "Construction", 
+        "SKU", 
+        "Toe Kick", 
+        "Wood Species", 
+        "Exposure", 
+        "Interior", 
+        "Accessories"
+    ],
+    "Construction":{
+        "F": "Frameless", 
+        "E": "Edge banded", 
+        "I": "Inset"
+    },
+    "Toe Kick":[
+        "FTS",
+        "NTK",
+        "TKL"
+    ],
+    "Wood Species":{
+        "ALD": "Alder",
+        "CHY": "Cherry",
+        "HKY": "Hickory",
+        "RHK": "Rustic Hickory",
+        "MAP": "Maple",
+        "WO": "White Oak",
+        "RO": "Red Oak",
+        "RWO": "Rift Sawn White Oak",
+        "QSWO": "Quarter Sawn White Oak",
+        "WAL": "Walnut"
+    },
+    "Exposure":{
+        "1X": ["FEB", "FET", "FEW"],
+        "2X": ["FEB", "FET", "FEW"],
+        "1XH": ["FEH"],
+        "2XH": ["FEH"],
+        "1XIP": ["IBEP", "EPET", "IPEW"],
+        "2XIP": ["IBEP", "EPET", "IPEW"]
+    },
+    "Original_Interior":{
+        "00": "Traditional, painted, or stained interiors, defaults to MDF or Maple/Birch",
+        "NI": "Natural Interior, Maple with clear coat finish",
+        "DI": "Deluxe Interior, same wood species and finish as the exterior usually open or glass doors.",
+        "SMI": "Standard Matching Interior   ( INT-FINISHED )"
+    },
+    "Molding_Types": [
+        "BTM822",
+        "CMSM",
+        "X1",
+        "2687",
+        "SM736A",
+        "FBM3",
+        "OCM",
+        "LTM4",
+        "SM736B",
+        "CVEM",
+        "CEM",
+        "TKM",
+        "AM1275",
+        "LTM2.5",
+        "LMOLD4",
+        "OCML",
+        "75",
+        "FBM2",
+        "3215 Bead Molding",
+        "CM942",
+        "FBM1",
+        "SS3",
+        "FBM10",
+        "LMOLD",
+        "BS4",
+        "AM",
+        "CCM",
+        "TKEND",
+        "CM310",
+        "WM2688",
+        "3125",
+        "BSM",
+        "SDAM",
+        "SS6",
+        "BSMSQ",
+        "CVEL",
+        "LTM1.5",
+        "FBM6",
+        "CA"
+    ],
+    "Interior":{
+        "DI": ["MFI", "MWSI", "FDI"],
+        "NI": "INT-MAPLE",
+        "00": "INT-FINISHED"
+    },    
+    "Grades of Wood Species":{
+        "00": [
+            "Nominal grade",
+            "No exposed ends",
+            "Shelves"
+        ],
+        "SS": [
+            "Single sided", 
+            "one side has premium grade", 
+            "one side has nominal grade",
+            "Natural interior or deluxe interior",
+            "One exposed end"
+        ],
+        "DS": [
+            "Double sided",
+            "two sides have premium grade", 
+            "Natural Interior with exposed end",
+            "Deluxe Interior with exposed end",
+            "Deluxe Interior shelves",
+            "Slab Doors"
+        ],
+        "BS": [
+            "Bar Stock",
+            "One sided",
+            "Typically used on island back",
+            "ex Wainscott"
+        ],
+        "Birch": [
+            "see listing"
+        ]
+    },
+    "Accessories": {
+        "ROT": "Roll Out Tray",
+        "PPROT1": "Pot and Pan Roll Out Tray",
+        "PPROT2": "Pot and Pan Roll Out Tray",
+        "VP": "Vertical Partitions",
+        "CS": "Cabinet storage mechanism"
+    }
+}

@@ -1,0 +1,26 @@
+AccountNumber (shipment_date)
+CreatedByDate (sales_order_date)
+
+# the shipment date needs to be after the sales order date. in my tests, there seemed to be something funny going on. 
+# also, what would you like to happen if:
+	1) the shipment date does not fall after the sales order date?
+	2) the shipment date does not exist
+	2) the sales order date does not exist
+
+
+Job Name
+# ensure Job Name is populated
+
+Dealer Discount
+
+# the dealer discount in all of the sample xml files were formatted differently (ie. 66, 66.5, 66.50, 66.0, 66.00). i made some changes
+# to this function to allow for these variations, however, just wanted to put this out there
+
+
+Wood Species
+
+# this value needs to match exactly, the dropdown value within zoho. ran into an issue when testing with Hard Maple. the Zoho value is just Maple and would
+# not allow the sales order to be created. 
+# also. what would you like to happen if there is more than one wood species specified? the function is pulling all of the wood species from all of the cabinet profiles. will there ever be more than one wood species? 
+
+

@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Order xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GUID>2c0f71fd-a168-4ce1-ab19-219b9a20f1ce</GUID>
+  <Status>
+    <StatusID>364</StatusID>
+    <StatusName>Scheduled/In Production</StatusName>
+    <LockedForDealer>true</LockedForDealer>
+    <LockedForManufacturer>false</LockedForManufacturer>
+    <UnlockKey />
+    <EmailDealer>true</EmailDealer>
+    <EmailManufacturer>false</EmailManufacturer>
+    <ManufacturerEmail />
+    <DealerChangeTo>false</DealerChangeTo>
+    <DealerChangeFrom>false</DealerChangeFrom>
+    <Notes>Your Coppes Napanee order has been marked as Scheduled and is now submitted to production</Notes>
+  </Status>
+  <OrderType>Regular</OrderType>
+  <OrderName>Anne Bathroom_5.8.24</OrderName>
+  <SoldTo>
+    <Name>Hoosier Interior Door</Name>
+    <Address>523 E Lincoln Ave</Address>
+    <City>Goshen</City>
+    <State>IN</State>
+    <Zip>46528</Zip>
+    <Phone>574-534-3072</Phone>
+    <Fax />
+    <Email>hoosierinteriorfoor@gmail.com</Email>
+    <Contact>Kevin Miller</Contact>
+  </SoldTo>
+  <ShipTo>
+    <Name>Hoosier Interior Door</Name>
+    <Address>523 E Lincoln Ave</Address>
+    <City>Goshen</City>
+    <State>IN</State>
+    <Zip>46528</Zip>
+    <Phone>574-534-3072</Phone>
+    <Fax />
+    <Email>hoosierinteriorfoor@gmail.com</Email>
+    <Contact>Kevin Miller</Contact>
+  </ShipTo>
+  <AcknowledgementNumber>24-0701</AcknowledgementNumber>
+  <AccountNumber>7/15/24</AccountNumber>
+  <JobName>Anne Bathroom</JobName>
+  <PONumber />
+  <DealerDiscount>67.50</DealerDiscount>
+  <DealerNumber>122002</DealerNumber>
+  <ShippingCharges>|||||</ShippingCharges>
+  <Taxes />
+  <CreatedByUserID>755</CreatedByUserID>
+  <CreatedByDate>2024-05-08T21:40:26.04</CreatedByDate>
+  <SubmittedDate xsi:nil="true" />
+  <CabentryVersion>2.2.4.3 Update_2024-09-10_14-33-13</CabentryVersion>
+  <RoomProfiles>
+    <RoomProfile>
+      <GUID>4ef6ffd6-b92a-4bc5-8b59-4e6b88ea8f90</GUID>
+      <RoomName>Bathroom</RoomName>
+      <RoomNumber>1</RoomNumber>
+      <Construction>Framed Full Overlay   ( FULL-OVERLAY )</Construction>
+      <Wood>Hard Maple   ( WD-HMAPLE )</Wood>
+      <HingeStyle>Concealed Soft Close   ( HNS-CONCEAL )</HingeStyle>
+      <StainPaint>Unfinished   ( UNFINISHED )</StainPaint>
+      <Technique>NONE   ( FNT-NONE )</Technique>
+      <Glaze>NONE   ( FNG-NONE )</Glaze>
+      <Sheen>NONE   ( FNS-NONE )</Sheen>
+      <Interior>Natural Maple Clear Coat Interior   ( INT-MAPLE )</Interior>
+      <DrawerBox>Dovetailed 5/8 Brown Hard Maple   ( DOVETAIL-MAPLE )</DrawerBox>
+      <Slides>Undermount Soft Close Guides   ( UNDERMOUNT-SC )</Slides>
+      <WallDoorStyle>Warner - Group 1   ( DS-WARNER )</WallDoorStyle>
+      <WallDoorOutsideEdgeProfile>O1   ( O1 )</WallDoorOutsideEdgeProfile>
+      <WallDoorInsideProfile>I15   ( I15 )</WallDoorInsideProfile>
+      <WallDoorCenterPanel>P1   ( P1 )</WallDoorCenterPanel>
+      <BaseDoorStyle>Warner - Group 1   ( DS-WARNER )</BaseDoorStyle>
+      <BaseDoorOutsideEdgeProfile>O1   ( O1 )</BaseDoorOutsideEdgeProfile>
+      <BaseDoorInsideProfile>I15   ( I15 )</BaseDoorInsideProfile>
+      <BaseDoorCenterPanel>P1   ( P1 )</BaseDoorCenterPanel>
+      <SmallDrawerFront>Warner - Group 1   ( DF-WARNER )</SmallDrawerFront>
+      <SmallDrawerOutsideEdgeProfile>O1   ( O1 )</SmallDrawerOutsideEdgeProfile>
+      <SmallDrawerInsideProfile>I15   ( I15 )</SmallDrawerInsideProfile>
+      <SmallDrawerCenterPanel>P1   ( P1 )</SmallDrawerCenterPanel>
+      <LargeDrawerFront>Warner - Group 1   ( DF-WARNER )</LargeDrawerFront>
+      <LargeDrawerOutsideEdgeProfile>O1   ( O1 )</LargeDrawerOutsideEdgeProfile>
+      <LargeDrawerInsideProfile>I15   ( I15 )</LargeDrawerInsideProfile>
+      <LargeDrawerCenterPanel>P1   ( P1 )</LargeDrawerCenterPanel>
+      <Comments />
+      <ConstructionUpcharge>0%</ConstructionUpcharge>
+      <WoodUpcharge>0%</WoodUpcharge>
+      <HingeStyleUpcharge>$0.00</HingeStyleUpcharge>
+      <StainPaintUpcharge>-20%</StainPaintUpcharge>
+      <TechniqueUpcharge>0%</TechniqueUpcharge>
+      <GlazeUpcharge>0%</GlazeUpcharge>
+      <SheenUpcharge>0%</SheenUpcharge>
+      <InteriorUpcharge>0%</InteriorUpcharge>
+      <DrawerBoxUpcharge>$0.00</DrawerBoxUpcharge>
+      <SlidesUpcharge>$0.00</SlidesUpcharge>
+      <WallDoorStyleUpcharge>$0.00</WallDoorStyleUpcharge>
+      <WallDoorOutsideEdgeProfileUpcharge>$0.00</WallDoorOutsideEdgeProfileUpcharge>
+      <WallDoorInsideProfileUpcharge>$0.00</WallDoorInsideProfileUpcharge>
+      <WallDoorCenterPanelUpcharge>$0.00</WallDoorCenterPanelUpcharge>
+      <BaseDoorStyleUpcharge>$0.00</BaseDoorStyleUpcharge>
+      <BaseDoorOutsideEdgeProfileUpcharge>$0.00</BaseDoorOutsideEdgeProfileUpcharge>
+      <BaseDoorInsideProfileUpcharge>$0.00</BaseDoorInsideProfileUpcharge>
+      <BaseDoorCenterPanelUpcharge>$0.00</BaseDoorCenterPanelUpcharge>
+      <SmallDrawerFrontUpcharge>$0.00</SmallDrawerFrontUpcharge>
+      <SmallDrawerOutsideEdgeProfileUpcharge>$0.00</SmallDrawerOutsideEdgeProfileUpcharge>
+      <SmallDrawerInsideProfileUpcharge>$0.00</SmallDrawerInsideProfileUpcharge>
+      <SmallDrawerCenterPanelUpcharge>$0.00</SmallDrawerCenterPanelUpcharge>
+      <LargeDrawerFrontUpcharge>$0.00</LargeDrawerFrontUpcharge>
+      <LargeDrawerOutsideEdgeProfileUpcharge>$0.00</LargeDrawerOutsideEdgeProfileUpcharge>
+      <LargeDrawerInsideProfileUpcharge>$0.00</LargeDrawerInsideProfileUpcharge>
+      <LargeDrawerCenterPanelUpcharge>$0.00</LargeDrawerCenterPanelUpcharge>
+      <GlobalRoomUpcharge />
+      <DollarRoomUpcharge>1419.07</DollarRoomUpcharge>
+      <TotalPercentUpcharge>-20</TotalPercentUpcharge>
+      <TotalWallDoorUpcharge>0.00</TotalWallDoorUpcharge>
+      <TotalBaseTallDoorUpcharge>0.00</TotalBaseTallDoorUpcharge>
+      <TotalSmallDrawerUpcharge>0.00</TotalSmallDrawerUpcharge>
+      <TotalLargeDrawerUpcharge>0.00</TotalLargeDrawerUpcharge>
+      <RoomSubTotal>11674.294</RoomSubTotal>
+      <RoomAckNum />
+    </RoomProfile>
+  </RoomProfiles>
+  <CabinetProfiles>
+    <CabinetProfile>
+      <GUID>eca8d38f-eadd-4a9d-a1df-9190b2944cd9</GUID>
+      <TheRoom>
+        <GUID>4ef6ffd6-b92a-4bc5-8b59-4e6b88ea8f90</GUID>
+        <RoomName>Bathroom</RoomName>
+        <RoomNumber>1</RoomNumber>
+        <Construction>Framed Full Overlay   ( FULL-OVERLAY )</Construction>
+        <Wood>Hard Maple   ( WD-HMAPLE )</Wood>
+        <HingeStyle>Concealed Soft Close   ( HNS-CONCEAL )</HingeStyle>
+        <StainPaint>Unfinished   ( UNFINISHED )</StainPaint>
+        <Technique>NONE   ( FNT-NONE )</Technique>
+        <Glaze>NONE   ( FNG-NONE )</Glaze>
+        <Sheen>NONE   ( FNS-NONE )</Sheen>
+        <Interior>Natural Maple Clear Coat Interior   ( INT-MAPLE )</Interior>
+        <DrawerBox>Dovetailed 5/8 Brown Hard Maple   ( DOVETAIL-MAPLE )</DrawerBox>
+        <Slides>Undermount Soft Close Guides   ( UNDERMOUNT-SC )</Slides>
+        <WallDoorStyle>Warner - Group 1   ( DS-WARNER )</WallDoorStyle>
+        <WallDoorOutsideEdgeProfile>O1   ( O1 )</WallDoorOutsideEdgeProfile>
+        <WallDoorInsideProfile>I15   ( I15 )</WallDoorInsideProfile>
+        <WallDoorCenterPanel>P1   ( P1 )</WallDoorCenterPanel>
+        <BaseDoorStyle>Warner - Group 1   ( DS-WARNER )</BaseDoorStyle>
+        <BaseDoorOutsideEdgeProfile>O1   ( O1 )</BaseDoorOutsideEdgeProfile>
+        <BaseDoorInsideProfile>I15   ( I15 )</BaseDoorInsideProfile>
+        <BaseDoorCenterPanel>P1   ( P1 )</BaseDoorCenterPanel>
+        <SmallDrawerFront>Warner - Group 1   ( DF-WARNER )</SmallDrawerFront>
+        <SmallDrawerOutsideEdgeProfile>O1   ( O1 )</SmallDrawerOutsideEdgeProfile>
+        <SmallDrawerInsideProfile>I15   ( I15 )</SmallDrawerInsideProfile>
+        <SmallDrawerCenterPanel>P1   ( P1 )</SmallDrawerCenterPanel>
+        <LargeDrawerFront>Warner - Group 1   ( DF-WARNER )</LargeDrawerFront>
+        <LargeDrawerOutsideEdgeProfile>O1   ( O1 )</LargeDrawerOutsideEdgeProfile>
+        <LargeDrawerInsideProfile>I15   ( I15 )</LargeDrawerInsideProfile>
+        <LargeDrawerCenterPanel>P1   ( P1 )</LargeDrawerCenterPanel>
+        <Comments />
+        <ConstructionUpcharge>0%</ConstructionUpcharge>
+        <WoodUpcharge>0%</WoodUpcharge>
+        <HingeStyleUpcharge>$0.00</HingeStyleUpcharge>
+        <StainPaintUpcharge>-20%</StainPaintUpcharge>
+        <TechniqueUpcharge>0%</TechniqueUpcharge>
+        <GlazeUpcharge>0%</GlazeUpcharge>
+        <SheenUpcharge>0%</SheenUpcharge>
+        <InteriorUpcharge>0%</InteriorUpcharge>
+        <DrawerBoxUpcharge>$0.00</DrawerBoxUpcharge>
+        <SlidesUpcharge>$0.00</SlidesUpcharge>
+        <WallDoorStyleUpcharge>$0.00</WallDoorStyleUpcharge>
+        <WallDoorOutsideEdgeProfileUpcharge>$0.00</WallDoorOutsideEdgeProfileUpcharge>
+        <WallDoorInsideProfileUpcharge>$0.00</WallDoorInsideProfileUpcharge>
+        <WallDoorCenterPanelUpcharge>$0.00</WallDoorCenterPanelUpcharge>
+        <BaseDoorStyleUpcharge>$0.00</BaseDoorStyleUpcharge>
+        <BaseDoorOutsideEdgeProfileUpcharge>$0.00</BaseDoorOutsideEdgeProfileUpcharge>
+        <BaseDoorInsideProfileUpcharge>$0.00</BaseDoorInsideProfileUpcharge>
+        <BaseDoorCenterPanelUpcharge>$0.00</BaseDoorCenterPanelUpcharge>
+        <SmallDrawerFrontUpcharge>$0.00</SmallDrawerFrontUpcharge>
+        <SmallDrawerOutsideEdgeProfileUpcharge>$0.00</SmallDrawerOutsideEdgeProfileUpcharge>
+        <SmallDrawerInsideProfileUpcharge>$0.00</SmallDrawerInsideProfileUpcharge>
+        <SmallDrawerCenterPanelUpcharge>$0.00</SmallDrawerCenterPanelUpcharge>
+        <LargeDrawerFrontUpcharge>$0.00</LargeDrawerFrontUpcharge>
+        <LargeDrawerOutsideEdgeProfileUpcharge>$0.00</LargeDrawerOutsideEdgeProfileUpcharge>
+        <LargeDrawerInsideProfileUpcharge>$0.00</LargeDrawerInsideProfileUpcharge>
+        <LargeDrawerCenterPanelUpcharge>$0.00</LargeDrawerCenterPanelUpcharge>
+        <GlobalRoomUpcharge />
+        <DollarRoomUpcharge>1419.07</DollarRoomUpcharge>
+        <TotalPercentUpcharge>-20</TotalPercentUpcharge>
+        <TotalWallDoorUpcharge>0.00</TotalWallDoorUpcharge>
+        <TotalBaseTallDoorUpcharge>0.00</TotalBaseTallDoorUpcharge>
+        <TotalSmallDrawerUpcharge>0.00</TotalSmallDrawerUpcharge>
+        <TotalLargeDrawerUpcharge>0.00</TotalLargeDrawerUpcharge>
+        <RoomSubTotal>11674.294</RoomSubTotal>
+        <RoomAckNum />
+      </TheRoom>
+      <TheCabinet>
+        <EntityKey>
+          <EntitySetName>MasterDatas</EntitySetName>
+          <EntityContainerName>MainEntities</EntityContainerName>
+          <EntityKeyValues>
+            <EntityKeyMember>
+              <Key>SKU</Key>
+              <Value xsi:type="xsd:string">VSBD48L</Value>
+            </EntityKeyMember>
+          </EntityKeyValues>
+        </EntityKey>
+        <SKU>VSBD48L</SKU>
+        <Price>$4,039.16</Price>
+        <Type>C-VN-COM</Type>
+        <Appliance />
+        <DoorCount>2</DoorCount>
+        <SmallDrawerCount>2</SmallDrawerCount>
+        <LargeDrawerCount>2</LargeDrawerCount>
+        <NumOpenings>5</NumOpenings>
+        <PriceRule>DOLR-A9</PriceRule>
+        <Description>Vanity Sink Base Drawers -  48" Wide Left Sink</Description>
+        <Width>48</Width>
+        <Height>34.5</Height>
+        <Depth>21</Depth>
+        <SortOrder xsi:nil="true" />
+        <ImagePath>Vanity/VSDB.jpg</ImagePath>
+        <PdfPath />
+        <CatalogNotes />
+        <YouTubePath />
+        <CommentRequired />
+        <CommentMessage />
+        <InactiveFlag />
+        <DrawerBoxCount>3</DrawerBoxCount>
+        <CVType />
+        <CVRename />
+        <CVUCS />
+        <MinWidth>45</MinWidth>
+        <MaxWidth>48</MaxWidth>
+        <MinHeight>16.5</MinHeight>
+        <MaxHeight>52.5</MaxHeight>
+        <MinDepth>12</MinDepth>
+        <MaxDepth>39</MaxDepth>
+        <ScheduleMultiplier />
+      </TheCabinet>
+      <CustomModifications>
+        <CustomModification>
+          <GUID>52cad57d-bae6-4d54-88ac-05c368a2a31f</GUID>
+          <SKU>VCOM</SKU>
+          <Upcharge>$400.00</Upcharge>
+          <Description>Vanity Cabinet Opening Modification</Description>
+          <Quantity>1</Quantity>
+          <Comments>15" DRAWER BANK RIGHT</Comments>
+          <CustomDollars />
+          <CustomPercent />
+          <TotalUpcharge>$400.00</TotalUpcharge>
+          <WidthFinal />
+          <HeightFinal />
+          <DepthFinal />
+        </CustomModification>
+        <CustomModification>
+          <GUID>b07352f0-2a93-439c-8b58-c782552b354d</GUID>
+          <SKU>M-CSTM-DOL</SKU>
+          <Upcharge>$0.00</Upcharge>
+          <Description>Custom Modification (Fill Comment and Price)</Description>
+          <Quantity>1</Quantity>
+          <Comments>OMIT FALSE DRAWER FRONT ON LEFT SIDE</Comments>
+          <CustomDollars>0</CustomDollars>
+          <CustomPercent />
+          <TotalUpcharge>$0.00</TotalUpcharge>
+          <WidthFinal />
+          <HeightFinal />
+          <DepthFinal />
+        </CustomModification>
+        <CustomModification>
+          <GUID>cc84efbc-c2ec-49ed-b576-ae65aa4b661d</GUID>
+          <SKU>FHD</SKU>
+          <Upcharge>$200.00</Upcharge>
+          <Description>Full Height Doors</Description>
+          <Quantity>1</Quantity>
+          <Comments>FULL HEIGHT DOORS ON LEFT SINK SIDE</Comments>
+          <CustomDollars />
+          <CustomPercent />
+          <TotalUpcharge>$200.00</TotalUpcharge>
+          <WidthFinal />
+          <HeightFinal />
+          <DepthFinal />
+        </CustomModification>
+      </CustomModifications>
+      <Accessories />
+      <Appliances />
+      <CabinetNumber>101</CabinetNumber>
+      <HingeLocation>Both   ( HIN-BOTH )</HingeLocation>
+      <Quantity>1</Quantity>
+      <TotalPrice>$3,831.33</TotalPrice>
+      <Comments />
+      <HeightStd>34.5</HeightStd>
+      <WidthStd>48</WidthStd>
+      <DepthStd>21</DepthStd>
+      <HeightAdj>-0.5</HeightAdj>
+      <WidthAdj>-2</WidthAdj>
+      <DepthAdj>0</DepthAdj>
+      <HeightFinal>34</HeightFinal>
+      <WidthFinal>46</WidthFinal>
+      <DepthFinal>21</DepthFinal>
+      <HeightUpcharge>$0.00</HeightUpcharge>
+      <WidthUpcharge>$0.00</WidthUpcharge>
+      <DepthUpcharge>$0.00</DepthUpcharge>
+      <LFE>( None )</LFE>
+      <LFEUpcharge>$0.00</LFEUpcharge>
+      <RFE>( None )</RFE>
+      <RFEUpcharge>$0.00</RFEUpcharge>
+      <LS>LS-None</LS>
+      <LSExtended>( Select Extend Left Stile )</LSExtended>
+      <LSWide>( Select Wide Left Stile )</LSWide>
+      <LSUpcharge>$0.00</LSUpcharge>
+      <RS>RS-None</RS>
+      <RSExtended>( Select Extend Right Stile )</RSExtended>
+      <RSWide>( Select Wide Right Stile )</RSWide>
+      <RSUpcharge>$0.00</RSUpcharge>
+      <UpperRail>( None )</UpperRail>
+      <UpperRailUpcharge>$0.00</UpperRailUpcharge>
+      <LowerRail>( None )</LowerRail>
+      <LowerRailUpcharge>$0.00</LowerRailUpcharge>
+    </CabinetProfile>
+    <CabinetProfile>
+      <GUID>9a481ffe-f184-4300-9296-d911e81c4e89</GUID>
+      <TheRoom>
+        <GUID>4ef6ffd6-b92a-4bc5-8b59-4e6b88ea8f90</GUID>
+        <RoomName>Bathroom</RoomName>
+        <RoomNumber>1</RoomNumber>
+        <Construction>Framed Full Overlay   ( FULL-OVERLAY )</Construction>
+        <Wood>Hard Maple   ( WD-HMAPLE )</Wood>
+        <HingeStyle>Concealed Soft Close   ( HNS-CONCEAL )</HingeStyle>
+        <StainPaint>Unfinished   ( UNFINISHED )</StainPaint>
+        <Technique>NONE   ( FNT-NONE )</Technique>
+        <Glaze>NONE   ( FNG-NONE )</Glaze>
+        <Sheen>NONE   ( FNS-NONE )</Sheen>
+        <Interior>Natural Maple Clear Coat Interior   ( INT-MAPLE )</Interior>
+        <DrawerBox>Dovetailed 5/8 Brown Hard Maple   ( DOVETAIL-MAPLE )</DrawerBox>
+        <Slides>Undermount Soft Close Guides   ( UNDERMOUNT-SC )</Slides>
+        <WallDoorStyle>Warner - Group 1   ( DS-WARNER )</WallDoorStyle>
+        <WallDoorOutsideEdgeProfile>O1   ( O1 )</WallDoorOutsideEdgeProfile>
+        <WallDoorInsideProfile>I15   ( I15 )</WallDoorInsideProfile>
+        <WallDoorCenterPanel>P1   ( P1 )</WallDoorCenterPanel>
+        <BaseDoorStyle>Warner - Group 1   ( DS-WARNER )</BaseDoorStyle>
+        <BaseDoorOutsideEdgeProfile>O1   ( O1 )</BaseDoorOutsideEdgeProfile>
+        <BaseDoorInsideProfile>I15   ( I15 )</BaseDoorInsideProfile>
+        <BaseDoorCenterPanel>P1   ( P1 )</BaseDoorCenterPanel>
+        <SmallDrawerFront>Warner - Group 1   ( DF-WARNER )</SmallDrawerFront>
+        <SmallDrawerOutsideEdgeProfile>O1   ( O1 )</SmallDrawerOutsideEdgeProfile>
+        <SmallDrawerInsideProfile>I15   ( I15 )</SmallDrawerInsideProfile>
+        <SmallDrawerCenterPanel>P1   ( P1 )</SmallDrawerCenterPanel>
+        <LargeDrawerFront>Warner - Group 1   ( DF-WARNER )</LargeDrawerFront>
+        <LargeDrawerOutsideEdgeProfile>O1   ( O1 )</LargeDrawerOutsideEdgeProfile>
+        <LargeDrawerInsideProfile>I15   ( I15 )</LargeDrawerInsideProfile>
+        <LargeDrawerCenterPanel>P1   ( P1 )</LargeDrawerCenterPanel>
+        <Comments />
+        <ConstructionUpcharge>0%</ConstructionUpcharge>
+        <WoodUpcharge>0%</WoodUpcharge>
+        <HingeStyleUpcharge>$0.00</HingeStyleUpcharge>
+        <StainPaintUpcharge>-20%</StainPaintUpcharge>
+        <TechniqueUpcharge>0%</TechniqueUpcharge>
+        <GlazeUpcharge>0%</GlazeUpcharge>
+        <SheenUpcharge>0%</SheenUpcharge>
+        <InteriorUpcharge>0%</InteriorUpcharge>
+        <DrawerBoxUpcharge>$0.00</DrawerBoxUpcharge>
+        <SlidesUpcharge>$0.00</SlidesUpcharge>
+        <WallDoorStyleUpcharge>$0.00</WallDoorStyleUpcharge>
+        <WallDoorOutsideEdgeProfileUpcharge>$0.00</WallDoorOutsideEdgeProfileUpcharge>
+        <WallDoorInsideProfileUpcharge>$0.00</WallDoorInsideProfileUpcharge>
+        <WallDoorCenterPanelUpcharge>$0.00</WallDoorCenterPanelUpcharge>
+        <BaseDoorStyleUpcharge>$0.00</BaseDoorStyleUpcharge>
+        <BaseDoorOutsideEdgeProfileUpcharge>$0.00</BaseDoorOutsideEdgeProfileUpcharge>
+        <BaseDoorInsideProfileUpcharge>$0.00</BaseDoorInsideProfileUpcharge>
+        <BaseDoorCenterPanelUpcharge>$0.00</BaseDoorCenterPanelUpcharge>
+        <SmallDrawerFrontUpcharge>$0.00</SmallDrawerFrontUpcharge>
+        <SmallDrawerOutsideEdgeProfileUpcharge>$0.00</SmallDrawerOutsideEdgeProfileUpcharge>
+        <SmallDrawerInsideProfileUpcharge>$0.00</SmallDrawerInsideProfileUpcharge>
+        <SmallDrawerCenterPanelUpcharge>$0.00</SmallDrawerCenterPanelUpcharge>
+        <LargeDrawerFrontUpcharge>$0.00</LargeDrawerFrontUpcharge>
+        <LargeDrawerOutsideEdgeProfileUpcharge>$0.00</LargeDrawerOutsideEdgeProfileUpcharge>
+        <LargeDrawerInsideProfileUpcharge>$0.00</LargeDrawerInsideProfileUpcharge>
+        <LargeDrawerCenterPanelUpcharge>$0.00</LargeDrawerCenterPanelUpcharge>
+        <GlobalRoomUpcharge />
+        <DollarRoomUpcharge>1419.07</DollarRoomUpcharge>
+        <TotalPercentUpcharge>-20</TotalPercentUpcharge>
+        <TotalWallDoorUpcharge>0.00</TotalWallDoorUpcharge>
+        <TotalBaseTallDoorUpcharge>0.00</TotalBaseTallDoorUpcharge>
+        <TotalSmallDrawerUpcharge>0.00</TotalSmallDrawerUpcharge>
+        <TotalLargeDrawerUpcharge>0.00</TotalLargeDrawerUpcharge>
+        <RoomSubTotal>11674.294</RoomSubTotal>
+        <RoomAckNum />
+      </TheRoom>
+      <TheCabinet>
+        <EntityKey>
+          <EntitySetName>MasterDatas</EntitySetName>
+          <EntityContainerName>MainEntities</EntityContainerName>
+          <EntityKeyValues>
+            <EntityKeyMember>
+              <Key>SKU</Key>
+              <Value xsi:type="xsd:string">VBFH30</Value>
+            </EntityKeyMember>
+          </EntityKeyValues>
+        </EntityKey>
+        <SKU>VBFH30</SKU>
+        <Price>$1,780.37</Price>
+        <Type>C-VN-BS</Type>
+        <Appliance />
+        <DoorCount>2</DoorCount>
+        <SmallDrawerCount>0</SmallDrawerCount>
+        <LargeDrawerCount>0</LargeDrawerCount>
+        <NumOpenings>1</NumOpenings>
+        <PriceRule>DOLR-A9</PriceRule>
+        <Description>Vanity Base Full Height - 30" Wide</Description>
+        <Width>30</Width>
+        <Height>34.5</Height>
+        <Depth>21</Depth>
+        <SortOrder xsi:nil="true" />
+        <ImagePath>Vanity\VBFH-2.jpg</ImagePath>
+        <PdfPath />
+        <CatalogNotes />
+        <YouTubePath />
+        <CommentRequired />
+        <CommentMessage />
+        <InactiveFlag />
+        <DrawerBoxCount>0</DrawerBoxCount>
+        <CVType />
+        <CVRename />
+        <CVUCS />
+        <MinWidth>27</MinWidth>
+        <MaxWidth>30</MaxWidth>
+        <MinHeight>16.5</MinHeight>
+        <MaxHeight>52.5</MaxHeight>
+        <MinDepth>6</MinDepth>
+        <MaxDepth>39</MaxDepth>
+        <ScheduleMultiplier />
+      </TheCabinet>
+      <CustomModifications />
+      <Accessories />
+      <Appliances />
+      <CabinetNumber>102</CabinetNumber>
+      <HingeLocation>Both   ( HIN-BOTH )</HingeLocation>
+      <Quantity>1</Quantity>
+      <TotalPrice>$1,424.30</TotalPrice>
+      <Comments />
+      <HeightStd>34.5</HeightStd>
+      <WidthStd>30</WidthStd>
+      <DepthStd>21</DepthStd>
+      <HeightAdj>-1.125</HeightAdj>
+      <WidthAdj>0</WidthAdj>
+      <DepthAdj>0</DepthAdj>
+      <HeightFinal>33.375</HeightFinal>
+      <WidthFinal>30</WidthFinal>
+      <DepthFinal>21</DepthFinal>
+      <HeightUpcharge>$0.00</HeightUpcharge>
+      <WidthUpcharge>$0.00</WidthUpcharge>
+      <DepthUpcharge>$0.00</DepthUpcharge>
+      <LFE>( None )</LFE>
+      <LFEUpcharge>$0.00</LFEUpcharge>
+      <RFE>( None )</RFE>
+      <RFEUpcharge>$0.00</RFEUpcharge>
+      <LS>LS-None</LS>
+      <LSExtended>( Select Extend Left Stile )</LSExtended>
+      <LSWide>( Select Wide Left Stile )</LSWide>
+      <LSUpcharge>$0.00</LSUpcharge>
+      <RS>RS-None</RS>
+      <RSExtended>( Select Extend Right Stile )</RSExtended>
+      <RSWide>( Select Wide Right Stile )</RSWide>
+      <RSUpcharge>$0.00</RSUpcharge>
+      <UpperRail>( None )</UpperRail>
+      <UpperRailUpcharge>$0.00</UpperRailUpcharge>
+      <LowerRail>( None )</LowerRail>
+      <LowerRailUpcharge>$0.00</LowerRailUpcharge>
+    </CabinetProfile>
+    <CabinetProfile>
+      <GUID>e26b4f78-8ac9-47e5-a091-658adc25e8c3</GUID>
+      <TheRoom>
+        <GUID>4ef6ffd6-b92a-4bc5-8b59-4e6b88ea8f90</GUID>
+        <RoomName>Bathroom</RoomName>
+        <RoomNumber>1</RoomNumber>
+        <Construction>Framed Full Overlay   ( FULL-OVERLAY )</Construction>
+        <Wood>Hard Maple   ( WD-HMAPLE )</Wood>
+        <HingeStyle>Concealed Soft Close   ( HNS-CONCEAL )</HingeStyle>
+        <StainPaint>Unfinished   ( UNFINISHED )</StainPaint>
+        <Technique>NONE   ( FNT-NONE )</Technique>
+        <Glaze>NONE   ( FNG-NONE )</Glaze>
+        <Sheen>NONE   ( FNS-NONE )</Sheen>
+        <Interior>Natural Maple Clear Coat Interior   ( INT-MAPLE )</Interior>
+        <DrawerBox>Dovetailed 5/8 Brown Hard Maple   ( DOVETAIL-MAPLE )</DrawerBox>
+        <Slides>Undermount Soft Close Guides   ( UNDERMOUNT-SC )</Slides>
+        <WallDoorStyle>Warner - Group 1   ( DS-WARNER )</WallDoorStyle>
+        <WallDoorOutsideEdgeProfile>O1   ( O1 )</WallDoorOutsideEdgeProfile>
+        <WallDoorInsideProfile>I15   ( I15 )</WallDoorInsideProfile>
+        <WallDoorCenterPanel>P1   ( P1 )</WallDoorCenterPanel>
+        <BaseDoorStyle>Warner - Group 1   ( DS-WARNER )</BaseDoorStyle>
+        <BaseDoorOutsideEdgeProfile>O1   ( O1 )</BaseDoorOutsideEdgeProfile>
+        <BaseDoorInsideProfile>I15   ( I15 )</BaseDoorInsideProfile>
+        <BaseDoorCenterPanel>P1   ( P1 )</BaseDoorCenterPanel>
+        <SmallDrawerFront>Warner - Group 1   ( DF-WARNER )</SmallDrawerFront>
+        <SmallDrawerOutsideEdgeProfile>O1   ( O1 )</SmallDrawerOutsideEdgeProfile>
+        <SmallDrawerInsideProfile>I15   ( I15 )</SmallDrawerInsideProfile>
+        <SmallDrawerCenterPanel>P1   ( P1 )</SmallDrawerCenterPanel>
+        <LargeDrawerFront>Warner - Group 1   ( DF-WARNER )</LargeDrawerFront>
+        <LargeDrawerOutsideEdgeProfile>O1   ( O1 )</LargeDrawerOutsideEdgeProfile>
+        <LargeDrawerInsideProfile>I15   ( I15 )</LargeDrawerInsideProfile>
+        <LargeDrawerCenterPanel>P1   ( P1 )</LargeDrawerCenterPanel>
+        <Comments />
+        <ConstructionUpcharge>0%</ConstructionUpcharge>
+        <WoodUpcharge>0%</WoodUpcharge>
+        <HingeStyleUpcharge>$0.00</HingeStyleUpcharge>
+        <StainPaintUpcharge>-20%</StainPaintUpcharge>
+        <TechniqueUpcharge>0%</TechniqueUpcharge>
+        <GlazeUpcharge>0%</GlazeUpcharge>
+        <SheenUpcharge>0%</SheenUpcharge>
+        <InteriorUpcharge>0%</InteriorUpcharge>
+        <DrawerBoxUpcharge>$0.00</DrawerBoxUpcharge>
+        <SlidesUpcharge>$0.00</SlidesUpcharge>
+        <WallDoorStyleUpcharge>$0.00</WallDoorStyleUpcharge>
+        <WallDoorOutsideEdgeProfileUpcharge>$0.00</WallDoorOutsideEdgeProfileUpcharge>
+        <WallDoorInsideProfileUpcharge>$0.00</WallDoorInsideProfileUpcharge>
+        <WallDoorCenterPanelUpcharge>$0.00</WallDoorCenterPanelUpcharge>
+        <BaseDoorStyleUpcharge>$0.00</BaseDoorStyleUpcharge>
+        <BaseDoorOutsideEdgeProfileUpcharge>$0.00</BaseDoorOutsideEdgeProfileUpcharge>
+        <BaseDoorInsideProfileUpcharge>$0.00</BaseDoorInsideProfileUpcharge>
+        <BaseDoorCenterPanelUpcharge>$0.00</BaseDoorCenterPanelUpcharge>
+        <SmallDrawerFrontUpcharge>$0.00</SmallDrawerFrontUpcharge>
+        <SmallDrawerOutsideEdgeProfileUpcharge>$0.00</SmallDrawerOutsideEdgeProfileUpcharge>
+        <SmallDrawerInsideProfileUpcharge>$0.00</SmallDrawerInsideProfileUpcharge>
+        <SmallDrawerCenterPanelUpcharge>$0.00</SmallDrawerCenterPanelUpcharge>
+        <LargeDrawerFrontUpcharge>$0.00</LargeDrawerFrontUpcharge>
+        <LargeDrawerOutsideEdgeProfileUpcharge>$0.00</LargeDrawerOutsideEdgeProfileUpcharge>
+        <LargeDrawerInsideProfileUpcharge>$0.00</LargeDrawerInsideProfileUpcharge>
+        <LargeDrawerCenterPanelUpcharge>$0.00</LargeDrawerCenterPanelUpcharge>
+        <GlobalRoomUpcharge />
+        <DollarRoomUpcharge>1419.07</DollarRoomUpcharge>
+        <TotalPercentUpcharge>-20</TotalPercentUpcharge>
+        <TotalWallDoorUpcharge>0.00</TotalWallDoorUpcharge>
+        <TotalBaseTallDoorUpcharge>0.00</TotalBaseTallDoorUpcharge>
+        <TotalSmallDrawerUpcharge>0.00</TotalSmallDrawerUpcharge>
+        <TotalLargeDrawerUpcharge>0.00</TotalLargeDrawerUpcharge>
+        <RoomSubTotal>11674.294</RoomSubTotal>
+        <RoomAckNum />
+      </TheRoom>
+      <TheCabinet>
+        <EntityKey>
+          <EntitySetName>MasterDatas</EntitySetName>
+          <EntityContainerName>MainEntities</EntityContainerName>
+          <EntityKeyValues>
+            <EntityKeyMember>
+              <Key>SKU</Key>
+              <Value xsi:type="xsd:string">VDB30-3</Value>
+            </EntityKeyMember>
+          </EntityKeyValues>
+        </EntityKey>
+        <SKU>VDB30-3</SKU>
+        <Price>$2,639.91</Price>
+        <Type>C-VN-DWR</Type>
+        <Appliance />
+        <DoorCount>0</DoorCount>
+        <SmallDrawerCount>1</SmallDrawerCount>
+        <LargeDrawerCount>2</LargeDrawerCount>
+        <NumOpenings>3</NumOpenings>
+        <PriceRule>DOLR-A9</PriceRule>
+        <Description>Vanity Drawer Base 3 Drawers - 30" Wide</Description>
+        <Width>30</Width>
+        <Height>34.5</Height>
+        <Depth>21</Depth>
+        <SortOrder xsi:nil="true" />
+        <ImagePath>Vanity\VDB-3.jpg</ImagePath>
+        <PdfPath />
+        <CatalogNotes />
+        <YouTubePath />
+        <CommentRequired />
+        <CommentMessage />
+        <InactiveFlag />
+        <DrawerBoxCount>3</DrawerBoxCount>
+        <CVType />
+        <CVRename />
+        <CVUCS />
+        <MinWidth>27</MinWidth>
+        <MaxWidth>30</MaxWidth>
+        <MinHeight>16.5</MinHeight>
+        <MaxHeight>52.5</MaxHeight>
+        <MinDepth>12</MinDepth>
+        <MaxDepth>39</MaxDepth>
+        <ScheduleMultiplier />
+      </TheCabinet>
+      <CustomModifications />
+      <Accessories />
+      <Appliances />
+      <CabinetNumber>103</CabinetNumber>
+      <HingeLocation>NONE   ( HIN-NONE )</HingeLocation>
+      <Quantity>1</Quantity>
+      <TotalPrice>$2,111.93</TotalPrice>
+      <Comments />
+      <HeightStd>34.5</HeightStd>
+      <WidthStd>30</WidthStd>
+      <DepthStd>21</DepthStd>
+      <HeightAdj>-1.125</HeightAdj>
+      <WidthAdj>0</WidthAdj>
+      <DepthAdj>0</DepthAdj>
+      <HeightFinal>33.375</HeightFinal>
+      <WidthFinal>30</WidthFinal>
+      <DepthFinal>21</DepthFinal>
+      <HeightUpcharge>$0.00</HeightUpcharge>
+      <WidthUpcharge>$0.00</WidthUpcharge>
+      <DepthUpcharge>$0.00</DepthUpcharge>
+      <LFE>( None )</LFE>
+      <LFEUpcharge>$0.00</LFEUpcharge>
+      <RFE>( None )</RFE>
+      <RFEUpcharge>$0.00</RFEUpcharge>
+      <LS>LS-None</LS>
+      <LSExtended>( Select Extend Left Stile )</LSExtended>
+      <LSWide>( Select Wide Left Stile )</LSWide>
+      <LSUpcharge>$0.00</LSUpcharge>
+      <RS>RS-None</RS>
+      <RSExtended>( Select Extend Right Stile )</RSExtended>
+      <RSWide>( Select Wide Right Stile )</RSWide>
+      <RSUpcharge>$0.00</RSUpcharge>
+      <UpperRail>( None )</UpperRail>
+      <UpperRailUpcharge>$0.00</UpperRailUpcharge>
+      <LowerRail>( None )</LowerRail>
+      <LowerRailUpcharge>$0.00</LowerRailUpcharge>
+    </CabinetProfile>
+    <CabinetProfile>
+      <GUID>39effb27-c046-4041-9b8c-2d0b183f16f9</GUID>
+      <TheRoom>
+        <GUID>4ef6ffd6-b92a-4bc5-8b59-4e6b88ea8f90</GUID>
+        <RoomName>Bathroom</RoomName>
+        <RoomNumber>1</RoomNumber>
+        <Construction>Framed Full Overlay   ( FULL-OVERLAY )</Construction>
+        <Wood>Hard Maple   ( WD-HMAPLE )</Wood>
+        <HingeStyle>Concealed Soft Close   ( HNS-CONCEAL )</HingeStyle>
+        <StainPaint>Unfinished   ( UNFINISHED )</StainPaint>
+        <Technique>NONE   ( FNT-NONE )</Technique>
+        <Glaze>NONE   ( FNG-NONE )</Glaze>
+        <Sheen>NONE   ( FNS-NONE )</Sheen>
+        <Interior>Natural Maple Clear Coat Interior   ( INT-MAPLE )</Interior>
+        <DrawerBox>Dovetailed 5/8 Brown Hard Maple   ( DOVETAIL-MAPLE )</DrawerBox>
+        <Slides>Undermount Soft Close Guides   ( UNDERMOUNT-SC )</Slides>
+        <WallDoorStyle>Warner - Group 1   ( DS-WARNER )</WallDoorStyle>
+        <WallDoorOutsideEdgeProfile>O1   ( O1 )</WallDoorOutsideEdgeProfile>
+        <WallDoorInsideProfile>I15   ( I15 )</WallDoorInsideProfile>
+        <WallDoorCenterPanel>P1   ( P1 )</WallDoorCenterPanel>
+        <BaseDoorStyle>Warner - Group 1   ( DS-WARNER )</BaseDoorStyle>
+        <BaseDoorOutsideEdgeProfile>O1   ( O1 )</BaseDoorOutsideEdgeProfile>
+        <BaseDoorInsideProfile>I15   ( I15 )</BaseDoorInsideProfile>
+        <BaseDoorCenterPanel>P1   ( P1 )</BaseDoorCenterPanel>
+        <SmallDrawerFront>Warner - Group 1   ( DF-WARNER )</SmallDrawerFront>
+        <SmallDrawerOutsideEdgeProfile>O1   ( O1 )</SmallDrawerOutsideEdgeProfile>
+        <SmallDrawerInsideProfile>I15   ( I15 )</SmallDrawerInsideProfile>
+        <SmallDrawerCenterPanel>P1   ( P1 )</SmallDrawerCenterPanel>
+        <LargeDrawerFront>Warner - Group 1   ( DF-WARNER )</LargeDrawerFront>
+        <LargeDrawerOutsideEdgeProfile>O1   ( O1 )</LargeDrawerOutsideEdgeProfile>
+        <LargeDrawerInsideProfile>I15   ( I15 )</LargeDrawerInsideProfile>
+        <LargeDrawerCenterPanel>P1   ( P1 )</LargeDrawerCenterPanel>
+        <Comments />
+        <ConstructionUpcharge>0%</ConstructionUpcharge>
+        <WoodUpcharge>0%</WoodUpcharge>
+        <HingeStyleUpcharge>$0.00</HingeStyleUpcharge>
+        <StainPaintUpcharge>-20%</StainPaintUpcharge>
+        <TechniqueUpcharge>0%</TechniqueUpcharge>
+        <GlazeUpcharge>0%</GlazeUpcharge>
+        <SheenUpcharge>0%</SheenUpcharge>
+        <InteriorUpcharge>0%</InteriorUpcharge>
+        <DrawerBoxUpcharge>$0.00</DrawerBoxUpcharge>
+        <SlidesUpcharge>$0.00</SlidesUpcharge>
+        <WallDoorStyleUpcharge>$0.00</WallDoorStyleUpcharge>
+        <WallDoorOutsideEdgeProfileUpcharge>$0.00</WallDoorOutsideEdgeProfileUpcharge>
+        <WallDoorInsideProfileUpcharge>$0.00</WallDoorInsideProfileUpcharge>
+        <WallDoorCenterPanelUpcharge>$0.00</WallDoorCenterPanelUpcharge>
+        <BaseDoorStyleUpcharge>$0.00</BaseDoorStyleUpcharge>
+        <BaseDoorOutsideEdgeProfileUpcharge>$0.00</BaseDoorOutsideEdgeProfileUpcharge>
+        <BaseDoorInsideProfileUpcharge>$0.00</BaseDoorInsideProfileUpcharge>
+        <BaseDoorCenterPanelUpcharge>$0.00</BaseDoorCenterPanelUpcharge>
+        <SmallDrawerFrontUpcharge>$0.00</SmallDrawerFrontUpcharge>
+        <SmallDrawerOutsideEdgeProfileUpcharge>$0.00</SmallDrawerOutsideEdgeProfileUpcharge>
+        <SmallDrawerInsideProfileUpcharge>$0.00</SmallDrawerInsideProfileUpcharge>
+        <SmallDrawerCenterPanelUpcharge>$0.00</SmallDrawerCenterPanelUpcharge>
+        <LargeDrawerFrontUpcharge>$0.00</LargeDrawerFrontUpcharge>
+        <LargeDrawerOutsideEdgeProfileUpcharge>$0.00</LargeDrawerOutsideEdgeProfileUpcharge>
+        <LargeDrawerInsideProfileUpcharge>$0.00</LargeDrawerInsideProfileUpcharge>
+        <LargeDrawerCenterPanelUpcharge>$0.00</LargeDrawerCenterPanelUpcharge>
+        <GlobalRoomUpcharge />
+        <DollarRoomUpcharge>1419.07</DollarRoomUpcharge>
+        <TotalPercentUpcharge>-20</TotalPercentUpcharge>
+        <TotalWallDoorUpcharge>0.00</TotalWallDoorUpcharge>
+        <TotalBaseTallDoorUpcharge>0.00</TotalBaseTallDoorUpcharge>
+        <TotalSmallDrawerUpcharge>0.00</TotalSmallDrawerUpcharge>
+        <TotalLargeDrawerUpcharge>0.00</TotalLargeDrawerUpcharge>
+        <RoomSubTotal>11674.294</RoomSubTotal>
+        <RoomAckNum />
+      </TheRoom>
+      <TheCabinet>
+        <EntityKey>
+          <EntitySetName>MasterDatas</EntitySetName>
+          <EntityContainerName>MainEntities</EntityContainerName>
+          <EntityKeyValues>
+            <EntityKeyMember>
+              <Key>SKU</Key>
+              <Value xsi:type="xsd:string">VBFH30</Value>
+            </EntityKeyMember>
+          </EntityKeyValues>
+        </EntityKey>
+        <SKU>VBFH30</SKU>
+        <Price>$1,780.37</Price>
+        <Type>C-VN-BS</Type>
+        <Appliance />
+        <DoorCount>2</DoorCount>
+        <SmallDrawerCount>0</SmallDrawerCount>
+        <LargeDrawerCount>0</LargeDrawerCount>
+        <NumOpenings>1</NumOpenings>
+        <PriceRule>DOLR-A9</PriceRule>
+        <Description>Vanity Base Full Height - 30" Wide</Description>
+        <Width>30</Width>
+        <Height>34.5</Height>
+        <Depth>21</Depth>
+        <SortOrder xsi:nil="true" />
+        <ImagePath>Vanity\VBFH-2.jpg</ImagePath>
+        <PdfPath />
+        <CatalogNotes />
+        <YouTubePath />
+        <CommentRequired />
+        <CommentMessage />
+        <InactiveFlag />
+        <DrawerBoxCount>0</DrawerBoxCount>
+        <CVType />
+        <CVRename />
+        <CVUCS />
+        <MinWidth>27</MinWidth>
+        <MaxWidth>30</MaxWidth>
+        <MinHeight>16.5</MinHeight>
+        <MaxHeight>52.5</MaxHeight>
+        <MinDepth>6</MinDepth>
+        <MaxDepth>39</MaxDepth>
+        <ScheduleMultiplier />
+      </TheCabinet>
+      <CustomModifications />
+      <Accessories />
+      <Appliances />
+      <CabinetNumber>104</CabinetNumber>
+      <HingeLocation>Both   ( HIN-BOTH )</HingeLocation>
+      <Quantity>1</Quantity>
+      <TotalPrice>$1,424.30</TotalPrice>
+      <Comments />
+      <HeightStd>34.5</HeightStd>
+      <WidthStd>30</WidthStd>
+      <DepthStd>21</DepthStd>
+      <HeightAdj>-1.125</HeightAdj>
+      <WidthAdj>0</WidthAdj>
+      <DepthAdj>0</DepthAdj>
+      <HeightFinal>33.375</HeightFinal>
+      <WidthFinal>30</WidthFinal>
+      <DepthFinal>21</DepthFinal>
+      <HeightUpcharge>$0.00</HeightUpcharge>
+      <WidthUpcharge>$0.00</WidthUpcharge>
+      <DepthUpcharge>$0.00</DepthUpcharge>
+      <LFE>( None )</LFE>
+      <LFEUpcharge>$0.00</LFEUpcharge>
+      <RFE>( None )</RFE>
+      <RFEUpcharge>$0.00</RFEUpcharge>
+      <LS>LS-None</LS>
+      <LSExtended>( Select Extend Left Stile )</LSExtended>
+      <LSWide>( Select Wide Left Stile )</LSWide>
+      <LSUpcharge>$0.00</LSUpcharge>
+      <RS>RS-None</RS>
+      <RSExtended>( Select Extend Right Stile )</RSExtended>
+      <RSWide>( Select Wide Right Stile )</RSWide>
+      <RSUpcharge>$0.00</RSUpcharge>
+      <UpperRail>( None )</UpperRail>
+      <UpperRailUpcharge>$0.00</UpperRailUpcharge>
+      <LowerRail>( None )</LowerRail>
+      <LowerRailUpcharge>$0.00</LowerRailUpcharge>
+    </CabinetProfile>
+    <CabinetProfile>
+      <GUID>45de7893-8ddb-454c-9ee4-fa9a4116910d</GUID>
+      <TheRoom>
+        <GUID>4ef6ffd6-b92a-4bc5-8b59-4e6b88ea8f90</GUID>
+        <RoomName>Bathroom</RoomName>
+        <RoomNumber>1</RoomNumber>
+        <Construction>Framed Full Overlay   ( FULL-OVERLAY )</Construction>
+        <Wood>Hard Maple   ( WD-HMAPLE )</Wood>
+        <HingeStyle>Concealed Soft Close   ( HNS-CONCEAL )</HingeStyle>
+        <StainPaint>Unfinished   ( UNFINISHED )</StainPaint>
+        <Technique>NONE   ( FNT-NONE )</Technique>
+        <Glaze>NONE   ( FNG-NONE )</Glaze>
+        <Sheen>NONE   ( FNS-NONE )</Sheen>
+        <Interior>Natural Maple Clear Coat Interior   ( INT-MAPLE )</Interior>
+        <DrawerBox>Dovetailed 5/8 Brown Hard Maple   ( DOVETAIL-MAPLE )</DrawerBox>
+        <Slides>Undermount Soft Close Guides   ( UNDERMOUNT-SC )</Slides>
+        <WallDoorStyle>Warner - Group 1   ( DS-WARNER )</WallDoorStyle>
+        <WallDoorOutsideEdgeProfile>O1   ( O1 )</WallDoorOutsideEdgeProfile>
+        <WallDoorInsideProfile>I15   ( I15 )</WallDoorInsideProfile>
+        <WallDoorCenterPanel>P1   ( P1 )</WallDoorCenterPanel>
+        <BaseDoorStyle>Warner - Group 1   ( DS-WARNER )</BaseDoorStyle>
+        <BaseDoorOutsideEdgeProfile>O1   ( O1 )</BaseDoorOutsideEdgeProfile>
+        <BaseDoorInsideProfile>I15   ( I15 )</BaseDoorInsideProfile>
+        <BaseDoorCenterPanel>P1   ( P1 )</BaseDoorCenterPanel>
+        <SmallDrawerFront>Warner - Group 1   ( DF-WARNER )</SmallDrawerFront>
+        <SmallDrawerOutsideEdgeProfile>O1   ( O1 )</SmallDrawerOutsideEdgeProfile>
+        <SmallDrawerInsideProfile>I15   ( I15 )</SmallDrawerInsideProfile>
+        <SmallDrawerCenterPanel>P1   ( P1 )</SmallDrawerCenterPanel>
+        <LargeDrawerFront>Warner - Group 1   ( DF-WARNER )</LargeDrawerFront>
+        <LargeDrawerOutsideEdgeProfile>O1   ( O1 )</LargeDrawerOutsideEdgeProfile>
+        <LargeDrawerInsideProfile>I15   ( I15 )</LargeDrawerInsideProfile>
+        <LargeDrawerCenterPanel>P1   ( P1 )</LargeDrawerCenterPanel>
+        <Comments />
+        <ConstructionUpcharge>0%</ConstructionUpcharge>
+        <WoodUpcharge>0%</WoodUpcharge>
+        <HingeStyleUpcharge>$0.00</HingeStyleUpcharge>
+        <StainPaintUpcharge>-20%</StainPaintUpcharge>
+        <TechniqueUpcharge>0%</TechniqueUpcharge>
+        <GlazeUpcharge>0%</GlazeUpcharge>
+        <SheenUpcharge>0%</SheenUpcharge>
+        <InteriorUpcharge>0%</InteriorUpcharge>
+        <DrawerBoxUpcharge>$0.00</DrawerBoxUpcharge>
+        <SlidesUpcharge>$0.00</SlidesUpcharge>
+        <WallDoorStyleUpcharge>$0.00</WallDoorStyleUpcharge>
+        <WallDoorOutsideEdgeProfileUpcharge>$0.00</WallDoorOutsideEdgeProfileUpcharge>
+        <WallDoorInsideProfileUpcharge>$0.00</WallDoorInsideProfileUpcharge>
+        <WallDoorCenterPanelUpcharge>$0.00</WallDoorCenterPanelUpcharge>
+        <BaseDoorStyleUpcharge>$0.00</BaseDoorStyleUpcharge>
+        <BaseDoorOutsideEdgeProfileUpcharge>$0.00</BaseDoorOutsideEdgeProfileUpcharge>
+        <BaseDoorInsideProfileUpcharge>$0.00</BaseDoorInsideProfileUpcharge>
+        <BaseDoorCenterPanelUpcharge>$0.00</BaseDoorCenterPanelUpcharge>
+        <SmallDrawerFrontUpcharge>$0.00</SmallDrawerFrontUpcharge>
+        <SmallDrawerOutsideEdgeProfileUpcharge>$0.00</SmallDrawerOutsideEdgeProfileUpcharge>
+        <SmallDrawerInsideProfileUpcharge>$0.00</SmallDrawerInsideProfileUpcharge>
+        <SmallDrawerCenterPanelUpcharge>$0.00</SmallDrawerCenterPanelUpcharge>
+        <LargeDrawerFrontUpcharge>$0.00</LargeDrawerFrontUpcharge>
+        <LargeDrawerOutsideEdgeProfileUpcharge>$0.00</LargeDrawerOutsideEdgeProfileUpcharge>
+        <LargeDrawerInsideProfileUpcharge>$0.00</LargeDrawerInsideProfileUpcharge>
+        <LargeDrawerCenterPanelUpcharge>$0.00</LargeDrawerCenterPanelUpcharge>
+        <GlobalRoomUpcharge />
+        <DollarRoomUpcharge>1419.07</DollarRoomUpcharge>
+        <TotalPercentUpcharge>-20</TotalPercentUpcharge>
+        <TotalWallDoorUpcharge>0.00</TotalWallDoorUpcharge>
+        <TotalBaseTallDoorUpcharge>0.00</TotalBaseTallDoorUpcharge>
+        <TotalSmallDrawerUpcharge>0.00</TotalSmallDrawerUpcharge>
+        <TotalLargeDrawerUpcharge>0.00</TotalLargeDrawerUpcharge>
+        <RoomSubTotal>11674.294</RoomSubTotal>
+        <RoomAckNum />
+      </TheRoom>
+      <TheCabinet>
+        <EntityKey>
+          <EntitySetName>MasterDatas</EntitySetName>
+          <EntityContainerName>MainEntities</EntityContainerName>
+          <EntityKeyValues>
+            <EntityKeyMember>
+              <Key>SKU</Key>
+              <Value xsi:type="xsd:string">BOCF334.5</Value>
+            </EntityKeyMember>
+          </EntityKeyValues>
+        </EntityKey>
+        <SKU>BOCF334.5</SKU>
+        <Price>$347.18</Price>
+        <Type>C-FP</Type>
+        <Appliance />
+        <DoorCount>0</DoorCount>
+        <SmallDrawerCount>0</SmallDrawerCount>
+        <LargeDrawerCount>0</LargeDrawerCount>
+        <NumOpenings>0</NumOpenings>
+        <PriceRule>DOLR-A1</PriceRule>
+        <Description>Base Outside Corner Filler 3" Wide 90 Degrees</Description>
+        <Width>3</Width>
+        <Height>34.5</Height>
+        <Depth>3</Depth>
+        <SortOrder xsi:nil="true" />
+        <ImagePath>Fillers\WCOF-BCOF-3in and 4in.jpg</ImagePath>
+        <PdfPath />
+        <CatalogNotes>SKU:WOCF312</CatalogNotes>
+        <YouTubePath />
+        <CommentRequired />
+        <CommentMessage />
+        <InactiveFlag />
+        <DrawerBoxCount>0</DrawerBoxCount>
+        <CVType />
+        <CVRename />
+        <CVUCS />
+        <MinWidth>1</MinWidth>
+        <MaxWidth>6</MaxWidth>
+        <MinHeight />
+        <MaxHeight>34.5</MaxHeight>
+        <MinDepth>1</MinDepth>
+        <MaxDepth>6</MaxDepth>
+        <ScheduleMultiplier />
+      </TheCabinet>
+      <CustomModifications />
+      <Accessories />
+      <Appliances />
+      <CabinetNumber>105</CabinetNumber>
+      <HingeLocation>NONE   ( HIN-NONE )</HingeLocation>
+      <Quantity>4</Quantity>
+      <TotalPrice>$1,110.98</TotalPrice>
+      <Comments />
+      <HeightStd>34.5</HeightStd>
+      <WidthStd>3</WidthStd>
+      <DepthStd>3</DepthStd>
+      <HeightAdj>0.0</HeightAdj>
+      <WidthAdj>0</WidthAdj>
+      <DepthAdj>0</DepthAdj>
+      <HeightFinal>34.5</HeightFinal>
+      <WidthFinal>3</WidthFinal>
+      <DepthFinal>3</DepthFinal>
+      <HeightUpcharge>$0.00</HeightUpcharge>
+      <WidthUpcharge>$0.00</WidthUpcharge>
+      <DepthUpcharge>$0.00</DepthUpcharge>
+      <LFE>( None )</LFE>
+      <LFEUpcharge>$0.00</LFEUpcharge>
+      <RFE>( None )</RFE>
+      <RFEUpcharge>$0.00</RFEUpcharge>
+      <LS>LS-None</LS>
+      <LSExtended>( Select Extend Left Stile )</LSExtended>
+      <LSWide>( Select Wide Left Stile )</LSWide>
+      <LSUpcharge>$0.00</LSUpcharge>
+      <RS>RS-None</RS>
+      <RSExtended>( Select Extend Right Stile )</RSExtended>
+      <RSWide>( Select Wide Right Stile )</RSWide>
+      <RSUpcharge>$0.00</RSUpcharge>
+      <UpperRail>( None )</UpperRail>
+      <UpperRailUpcharge>$0.00</UpperRailUpcharge>
+      <LowerRail>( None )</LowerRail>
+      <LowerRailUpcharge>$0.00</LowerRailUpcharge>
+    </CabinetProfile>
+    <CabinetProfile>
+      <GUID>a5724f6c-89aa-4add-bd2f-21ad807a9d55</GUID>
+      <TheRoom>
+        <GUID>4ef6ffd6-b92a-4bc5-8b59-4e6b88ea8f90</GUID>
+        <RoomName>Bathroom</RoomName>
+        <RoomNumber>1</RoomNumber>
+        <Construction>Framed Full Overlay   ( FULL-OVERLAY )</Construction>
+        <Wood>Hard Maple   ( WD-HMAPLE )</Wood>
+        <HingeStyle>Concealed Soft Close   ( HNS-CONCEAL )</HingeStyle>
+        <StainPaint>Unfinished   ( UNFINISHED )</StainPaint>
+        <Technique>NONE   ( FNT-NONE )</Technique>
+        <Glaze>NONE   ( FNG-NONE )</Glaze>
+        <Sheen>NONE   ( FNS-NONE )</Sheen>
+        <Interior>Natural Maple Clear Coat Interior   ( INT-MAPLE )</Interior>
+        <DrawerBox>Dovetailed 5/8 Brown Hard Maple   ( DOVETAIL-MAPLE )</DrawerBox>
+        <Slides>Undermount Soft Close Guides   ( UNDERMOUNT-SC )</Slides>
+        <WallDoorStyle>Warner - Group 1   ( DS-WARNER )</WallDoorStyle>
+        <WallDoorOutsideEdgeProfile>O1   ( O1 )</WallDoorOutsideEdgeProfile>
+        <WallDoorInsideProfile>I15   ( I15 )</WallDoorInsideProfile>
+        <WallDoorCenterPanel>P1   ( P1 )</WallDoorCenterPanel>
+        <BaseDoorStyle>Warner - Group 1   ( DS-WARNER )</BaseDoorStyle>
+        <BaseDoorOutsideEdgeProfile>O1   ( O1 )</BaseDoorOutsideEdgeProfile>
+        <BaseDoorInsideProfile>I15   ( I15 )</BaseDoorInsideProfile>
+        <BaseDoorCenterPanel>P1   ( P1 )</BaseDoorCenterPanel>
+        <SmallDrawerFront>Warner - Group 1   ( DF-WARNER )</SmallDrawerFront>
+        <SmallDrawerOutsideEdgeProfile>O1   ( O1 )</SmallDrawerOutsideEdgeProfile>
+        <SmallDrawerInsideProfile>I15   ( I15 )</SmallDrawerInsideProfile>
+        <SmallDrawerCenterPanel>P1   ( P1 )</SmallDrawerCenterPanel>
+        <LargeDrawerFront>Warner - Group 1   ( DF-WARNER )</LargeDrawerFront>
+        <LargeDrawerOutsideEdgeProfile>O1   ( O1 )</LargeDrawerOutsideEdgeProfile>
+        <LargeDrawerInsideProfile>I15   ( I15 )</LargeDrawerInsideProfile>
+        <LargeDrawerCenterPanel>P1   ( P1 )</LargeDrawerCenterPanel>
+        <Comments />
+        <ConstructionUpcharge>0%</ConstructionUpcharge>
+        <WoodUpcharge>0%</WoodUpcharge>
+        <HingeStyleUpcharge>$0.00</HingeStyleUpcharge>
+        <StainPaintUpcharge>-20%</StainPaintUpcharge>
+        <TechniqueUpcharge>0%</TechniqueUpcharge>
+        <GlazeUpcharge>0%</GlazeUpcharge>
+        <SheenUpcharge>0%</SheenUpcharge>
+        <InteriorUpcharge>0%</InteriorUpcharge>
+        <DrawerBoxUpcharge>$0.00</DrawerBoxUpcharge>
+        <SlidesUpcharge>$0.00</SlidesUpcharge>
+        <WallDoorStyleUpcharge>$0.00</WallDoorStyleUpcharge>
+        <WallDoorOutsideEdgeProfileUpcharge>$0.00</WallDoorOutsideEdgeProfileUpcharge>
+        <WallDoorInsideProfileUpcharge>$0.00</WallDoorInsideProfileUpcharge>
+        <WallDoorCenterPanelUpcharge>$0.00</WallDoorCenterPanelUpcharge>
+        <BaseDoorStyleUpcharge>$0.00</BaseDoorStyleUpcharge>
+        <BaseDoorOutsideEdgeProfileUpcharge>$0.00</BaseDoorOutsideEdgeProfileUpcharge>
+        <BaseDoorInsideProfileUpcharge>$0.00</BaseDoorInsideProfileUpcharge>
+        <BaseDoorCenterPanelUpcharge>$0.00</BaseDoorCenterPanelUpcharge>
+        <SmallDrawerFrontUpcharge>$0.00</SmallDrawerFrontUpcharge>
+        <SmallDrawerOutsideEdgeProfileUpcharge>$0.00</SmallDrawerOutsideEdgeProfileUpcharge>
+        <SmallDrawerInsideProfileUpcharge>$0.00</SmallDrawerInsideProfileUpcharge>
+        <SmallDrawerCenterPanelUpcharge>$0.00</SmallDrawerCenterPanelUpcharge>
+        <LargeDrawerFrontUpcharge>$0.00</LargeDrawerFrontUpcharge>
+        <LargeDrawerOutsideEdgeProfileUpcharge>$0.00</LargeDrawerOutsideEdgeProfileUpcharge>
+        <LargeDrawerInsideProfileUpcharge>$0.00</LargeDrawerInsideProfileUpcharge>
+        <LargeDrawerCenterPanelUpcharge>$0.00</LargeDrawerCenterPanelUpcharge>
+        <GlobalRoomUpcharge />
+        <DollarRoomUpcharge>1419.07</DollarRoomUpcharge>
+        <TotalPercentUpcharge>-20</TotalPercentUpcharge>
+        <TotalWallDoorUpcharge>0.00</TotalWallDoorUpcharge>
+        <TotalBaseTallDoorUpcharge>0.00</TotalBaseTallDoorUpcharge>
+        <TotalSmallDrawerUpcharge>0.00</TotalSmallDrawerUpcharge>
+        <TotalLargeDrawerUpcharge>0.00</TotalLargeDrawerUpcharge>
+        <RoomSubTotal>11674.294</RoomSubTotal>
+        <RoomAckNum />
+      </TheRoom>
+      <TheCabinet>
+        <EntityKey>
+          <EntitySetName>MasterDatas</EntitySetName>
+          <EntityContainerName>MainEntities</EntityContainerName>
+          <EntityKeyValues>
+            <EntityKeyMember>
+              <Key>SKU</Key>
+              <Value xsi:type="xsd:string">TKM</Value>
+            </EntityKeyMember>
+          </EntityKeyValues>
+        </EntityKey>
+        <SKU>TKM</SKU>
+        <Price>$220.25</Price>
+        <Type>C-ML</Type>
+        <Appliance />
+        <DoorCount>0</DoorCount>
+        <SmallDrawerCount>0</SmallDrawerCount>
+        <LargeDrawerCount>0</LargeDrawerCount>
+        <NumOpenings>0</NumOpenings>
+        <PriceRule>DOLR-A1</PriceRule>
+        <Description>Toe Kick Molding</Description>
+        <Width>4</Width>
+        <Height>96</Height>
+        <Depth>0.25</Depth>
+        <SortOrder xsi:nil="true" />
+        <ImagePath />
+        <PdfPath />
+        <CatalogNotes />
+        <YouTubePath />
+        <CommentRequired />
+        <CommentMessage />
+        <InactiveFlag />
+        <DrawerBoxCount>0</DrawerBoxCount>
+        <CVType />
+        <CVRename />
+        <CVUCS />
+        <MinWidth />
+        <MaxWidth />
+        <MinHeight />
+        <MaxHeight />
+        <MinDepth />
+        <MaxDepth />
+        <ScheduleMultiplier />
+      </TheCabinet>
+      <CustomModifications />
+      <Accessories />
+      <Appliances />
+      <CabinetNumber>106</CabinetNumber>
+      <HingeLocation>NONE   ( HIN-NONE )</HingeLocation>
+      <Quantity>2</Quantity>
+      <TotalPrice>$352.40</TotalPrice>
+      <Comments />
+      <HeightStd>96</HeightStd>
+      <WidthStd>4</WidthStd>
+      <DepthStd>0.25</DepthStd>
+      <HeightAdj>0</HeightAdj>
+      <WidthAdj>0</WidthAdj>
+      <DepthAdj>0.00</DepthAdj>
+      <HeightFinal>96</HeightFinal>
+      <WidthFinal>4</WidthFinal>
+      <DepthFinal>0.25</DepthFinal>
+      <HeightUpcharge>$0.00</HeightUpcharge>
+      <WidthUpcharge>$0.00</WidthUpcharge>
+      <DepthUpcharge>$0.00</DepthUpcharge>
+      <LFE>( None )</LFE>
+      <LFEUpcharge>$0.00</LFEUpcharge>
+      <RFE>( None )</RFE>
+      <RFEUpcharge>$0.00</RFEUpcharge>
+      <LS>LS-None</LS>
+      <LSExtended>( Select Extend Left Stile )</LSExtended>
+      <LSWide>( Select Wide Left Stile )</LSWide>
+      <LSUpcharge>$0.00</LSUpcharge>
+      <RS>RS-None</RS>
+      <RSExtended>( Select Extend Right Stile )</RSExtended>
+      <RSWide>( Select Wide Right Stile )</RSWide>
+      <RSUpcharge>$0.00</RSUpcharge>
+      <UpperRail>( None )</UpperRail>
+      <UpperRailUpcharge>$0.00</UpperRailUpcharge>
+      <LowerRail>( None )</LowerRail>
+      <LowerRailUpcharge>$0.00</LowerRailUpcharge>
+    </CabinetProfile>
+  </CabinetProfiles>
+  <Attachments />
+  <ReadOnly>false</ReadOnly>
+</Order>

@@ -1,0 +1,977 @@
+--------------------------------------------------------------------------------------------------
+2023-12-07 16:12:46.383773
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-07 18:00:00.339302
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-08 08:00:00.492746
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-08 18:00:03.851582
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-09 08:00:02.036740
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-09 18:00:04.083387
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-10 08:00:02.190438
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-10 18:00:02.206313
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-11 08:00:02.812775
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-11 18:00:02.641195
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-12 08:00:02.685289
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-12 18:00:02.435037
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-13 08:00:03.103984
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-13 18:00:03.885304
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-14 08:00:02.882770
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-14 18:00:02.476870
+Processing Ace Builders Break Room.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+time data '2/15/24' does not match format '%m/%d/%Y'
+list_sales_orders 200
+get_sales_order 200
+name 'sales_order' is not defined
+--------------------------------------------------------------------------------------------------
+2023-12-15 08:00:02.911498
+Processing Longo Kitchen.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+time data 'Week Of 2/5/24' does not match format '%m/%d/%Y'
+list_sales_orders 200
+get_sales_order 200
+name 'sales_order' is not defined
+--------------------------------------------------------------------------------------------------
+2023-12-15 18:00:02.942994
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-16 08:00:03.127681
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-16 18:00:02.581189
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-17 08:00:04.312386
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-17 18:00:02.531809
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-18 08:00:02.677362
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2023-12-18 18:00:03.124439
+Processing Ace Builders Break Room-ENGINEERING.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+sequence item 1: expected str instance, NoneType found
+list_sales_orders 200
+get_sales_order 200
+name 'sales_order' is not defined
+--------------------------------------------------------------------------------------------------
+2023-12-19 08:00:02.637410
+Processing Cake Shop Commons.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+list_sales_orders 200
+get_sales_order 200
+update_sales_orders 400
+Illegal value specified for a Dropdown field: null
+Processing Longo Family Room.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+sequence item 1: expected str instance, NoneType found
+list_sales_orders 200
+get_sales_order 200
+update_sales_orders 400
+Illegal value specified for a Dropdown field: null
+--------------------------------------------------------------------------------------------------
+2023-12-19 18:00:03.188216
+Processing Longo Kitchen.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+sequence item 1: expected str instance, NoneType found
+--------------------------------------------------------------------------------------------------
+2023-12-20 08:00:02.831602
+Processing Longo Kitchen.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+sequence item 1: expected str instance, NoneType found
+--------------------------------------------------------------------------------------------------
+2023-12-20 10:04:35.428303
+Processing Ace Builders Break Room-ENGINEERING.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+--------------------------------------------------------------------------------------------------
+2023-12-20 10:17:24.141464
+Processing Ace Builders Break Room-ENGINEERING.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+list_sales_orders 200
+get_sales_order 200
+update_sales_orders 200
+--------------------------------------------------------------------------------------------------
+2023-12-20 10:22:17.440568
+Processing Ace Builders Break Room.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+time data '2/15/24' does not match format '%m/%d/%Y'
+list_sales_orders 200
+get_sales_order 200
+name 'sales_order' is not defined
+--------------------------------------------------------------------------------------------------
+2023-12-20 10:25:39.389360
+Processing Ace Builders Break Room.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+list_sales_orders 200
+get_sales_order 200
+update_sales_orders 200
+Moved XML and JSON files to processed
+Processing Cake Shop Commons.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+list_sales_orders 200
+get_sales_order 200
+update_sales_orders 400
+Illegal value specified for a Dropdown field: NONE
+Processing Longo Family Room.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+list_sales_orders 200
+get_sales_order 200
+update_sales_orders 200
+Moved XML and JSON files to processed
+All xml files processed
+--------------------------------------------------------------------------------------------------
+2024-02-04 14:11:19.521418
+No new xml files found
+--------------------------------------------------------------------------------------------------
+2024-02-04 14:13:14.594455
+Processing Longo Family Room.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+--------------------------------------------------------------------------------------------------
+2024-02-04 14:15:12.254627
+Processing Longo Family Room.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+All xml files processed
+--------------------------------------------------------------------------------------------------
+2024-02-04 14:19:15.907977
+Processing Ace Builders Break Room.xml
+XML converted to JSON
+Exported JSON to file
+Formatting Sales Order
+Generating Sales Order list
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+get_inventory_item 200
+All xml files processed

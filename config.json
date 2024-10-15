@@ -1,0 +1,18 @@
+{
+    "books_redirect_uri": "https://www.zoho.com/books/",
+    "books_access_token": "1000.44e8c58ada5760756b4900761a04c786.fc580540ba333208eba9646c782ca7c2",
+    "books_refresh_token": "1000.04ff69a4f9065ad26ef716ca381426eb.07d27b981d88bc3162416f885adbb427",
+    "token_datetime": "2024-10-15 10:29:24.153605",
+    "conn": "http.client.HTTPSConnection('www.zohoapis.com')",
+    "organization_id": 791172005,
+    "client_id": "1000.RY717H6HNZQFEGJIJZTD8JK9OTHX9A",
+    "client_secret": "23fc35883475b659909b1d0f8a699b1532f7f699c1",
+    "token": "1000.a8b42498d9f1dea1a089872190b2750f.5508817c472bc2984118aae164dcd1b5",
+    "xml_export_files": "/home/wmunsell/Code/SalesOrderSync/xml_export_files",
+    "xml_processed_files": "/home/wmunsell/Code/SalesOrderSync/xml_export_files/processed_files",
+    "xml_error_files": "/home/wmunsell/Code/SalesOrderSync/xml_export_files/error_files",
+    "json_export_files": "/home/wmunsell/Code/SalesOrderSync/json_export_files",
+    "json_processed_files": "/home/wmunsell/Code/SalesOrderSync/json_export_files/processed_files",
+    "log_file": "/home/wmunsell/Code/SalesOrderSync/log_files/SalesOrderSync.log",
+    "testing_log_file": "/home/wmunsell/Code/SalesOrderSync/log_files/Testing_SalesOrderSync.log"
+}

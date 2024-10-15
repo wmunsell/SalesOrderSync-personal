@@ -1,0 +1,254 @@
+{
+    "Construction_Desc": {
+        "FULL-OVERLAY": "Framed Full-Overlay (GS-01)",
+        "FRAMELESS HW": "Frameless Hardwood (GS-02)",
+        "FRAMELESS EB": "Frameless Edge-band (GS-02)",
+        "INSET": "Inset (GS-03)",
+        "BEADEDINSET": "Beaded Inset (GS-04)",
+        "CUSTOM-OVERLAY": "Custom framed Overlay"
+    },
+    "Construction": {
+        "FULL-OVERLAY": null,
+        "FRAMELESS-HW": "F",
+        "FRAMELESS-EB": "E",
+        "INSET": "I",
+        "BEADEDINSET": "B",
+        "CUSTOM-OVERLAY": null
+    },
+    "Cabinet_Ends": {
+        "IIPE": "Inset Integrated Panel End",
+        "IPE": "Integrated Panel End",
+        "FEA": "Finished End Appliance Side",
+        "FE": "Finished End",
+        "FEH": "Finished End Hardwoods",
+        "APPL": "Door On End/Applied Door",
+        "WDE": "Working Door on End"
+    },
+    "Interior_Desc": {
+        "INT-MAPLE": "Natural Maple clear Coat Interior",
+        "INT-CHERRY": "Natural Cherry Finished Interior",
+        "INT-WALNUT": "Natural Walnut Finished Interior",
+        "INT-WHITE_OAK": "Natural White Oak Finished Interior",
+        "INT-DELUXE": "Deluxe Wood Species Interior",
+        "INT-STAINED": "Matching Stain Interior on Maple",
+        "INT-PAINTED": "Matching Paint Interior",
+        "INT-NMPI": " Non-Matching Pained Interior"
+    },
+    "Interior": {
+        "INT-MAPLE": "NMFI",
+        "INT-CHERRY": "NCFI",
+        "INT-WALNUT": "NWFI",
+        "INT-WHITE_OAK": "NWOFI",
+        "INT-DELUXE": "DWSI",
+        "INT-STAINED": "MSI",
+        "INT-PAINTED": "MPI",
+        "INT-NMPI": "NMPI"
+    },
+    "Drawer Box": {
+        "DOVETAIL-MAPLE": "Dovetailed 5/8 Brown Hard Maple",
+        "DOVETAIL-CHERRY": "Dovetailed 5/8 Cherry",
+        "DOVETAIL-PS_WHITE_OAK": "Dovetailed 5/8 PS White Oak",
+        "DOVETAIL-WALNUT": "Dovetailed 5/8 Walnut"
+    },
+    "Wood_Desc": {
+        "WD-NONE": "NONE",
+        "WD-ALDER": "Alder",
+        "WD-CHERRY": "Cherry",
+        "WD-ECHORCVENEER": "Echo Rift Cut Veneer",
+        "WD-HMAPLE": "Maple",
+        "WD-HICKORY": "Hickory",
+        "WD-MAHOGANY": "Mahogany",
+        "WD-PAINT": "Paint Grade",
+        "WD-PSWOAK": "Plain Sliced White Oak",
+        "WD-QSROAK": "Qtr Sawn Red Oak",
+        "WD-QSWHTOAK": "Qtr Sawn White Oak",
+        "WD-REDOAK": "Red Oak",
+        "WD-RWHTOAK": "Rift White Oak",
+        "WD-RALDER": "Rustic Alder",
+        "WD-RHICKORY": "Rustic Hickory",
+        "WD-WALNUT": "Walnut"
+    },
+    "Wood": {
+        "WD-NONE": null,
+        "WD-ALDER": "ALD",
+        "WD-CHERRY": "CHY",
+        "WD-ECHORCVENEER": "ECHO",
+        "WD-HMAPLE": "MAP",
+        "WD-HICKORY": "HKY",
+        "WD-MAHOGANY": "MAH",
+        "WD-PAINT": "PNT",
+        "WD-PSWOAK": "WO",
+        "WD-QSROAK": "QSRO",
+        "WD-QSWHTOAK": "QSWO",
+        "WD-REDOAK": "RO",
+        "WD-RWHTOAK": "RWO",
+        "WD-RALDER": "RALD",
+        "WD-RHICKORY": "RHKY",
+        "WD-WALNUT": "WAL"
+    },
+    "Type": {
+        "C-ML": "Molding",
+        "C-FP": "Finished Panel"
+    },
+    "Hing Style": {
+        "HNS-CONCEAL": "Concealed Soft Close",
+        "HNS-AIR": "Concealed Air Soft Close (Framless Only)"
+    },
+    "Slides": {
+        "UNDERMOUNT-SC": "UFull Extension Undermount Soft Close",
+        "HNS-AIR": "Push to Open Guides"
+    },
+    "Finish": {
+        "Stain/Paint":{
+            "STANDARD PAINT FINISHES (WS-6)": {
+                "PT-CUSTOM #1 Paint": "Custom Paint Level #1",
+                "PT-CUSTOM #2 Paint": "Custom Paint Level #2",
+                "PT-CUSTOM #3 Paint": "Custom Paint Level #3",
+                "PT-CUSTOM #4 Paint": "Custom Paint Level #4",
+                "PT-CUSTOM #5 Paint": "Custom Paint Level #5",
+                "PT-CUSTOM #6 Paint": "Custom Paint Level #6",
+                "PT-CUSTOM #7 Paint": "Custom Paint Level #7"
+            },
+            "STANDARD STAIN FINISHES (WS-5)": {
+                "PT-CUSTOM #1 Stain": "Custom Stain Level #1",
+                "PT-CUSTOM #2 Stain": "Custom Stain Level #2",
+                "PT-CUSTOM #3 Stain": "Custom Stain Level #3",
+                "PT-CUSTOM #4 Stain": "Custom Stain Level #4",
+                "PT-CUSTOM #5 Stain": "Custom Stain Level #5",
+                "PT-CUSTOM #6 Stain": "Custom Stain Level #6",
+                "PT-CUSTOM #7 Stain": "Custom Stain Level #7"
+            }
+        },
+        "Technique": {
+            "FNT-CUSTOM": "Custom See CN Number"
+        },
+        "Glaze": {
+            "FNG-CUSTOM": "Custom Seen CN Number"
+        },
+        "Sheen": {
+            "FNS-MATTE": "Matte Finish",
+            "FNS-EGGSHELL": "Eggshell Finish",
+            "FNS-SEMI": "Semi-Gloss Finish",
+            "FNS-CUSTOM": "Custom See CN Number"
+        }
+    },
+    "Wall/Base/Tall Door":{
+        "Select Door Style (DS1-30)": "None",
+        "Select Center Panel": "None",
+        "Select Outside Edge Profile": "None",
+        "Select Inside Edge Profile": "None"
+    },
+    "Large/small/Drawer": {
+        "Select Drawer Front (DS1-30)": "None",
+        "Select Center Panel": "None",
+        "Select Outside Edge Profile": "None",
+        "Select Inside Edge Profile": "None"
+    },
+    "Structure": [
+        "Construction", 
+        "SKU", 
+        "Toe Kick", 
+        "Wood Species", 
+        "Exposure", 
+        "Interior", 
+        "Accessories"
+    ],
+    "Toe Kick":[
+        "FTS",
+        "NTK",
+        "TKL"
+    ],
+    "Exposure":{
+        "1X": ["FEB", "FET", "FEW"],
+        "2X": ["FEB", "FET", "FEW"],
+        "1XH": ["FEH"],
+        "2XH": ["FEH"],
+        "1XIP": ["IBEP", "EPET", "IPEW"],
+        "2XIP": ["IBEP", "EPET", "IPEW"]
+    },
+    "Original_Interior":{
+        "00": "Traditional, painted, or stained interiors, defaults to MDF or Maple/Birch",
+        "NI": "Natural Interior, Maple with clear coat finish",
+        "DI": "Deluxe Interior, same wood species and finish as the exterior usually open or glass doors.",
+        "SMI": "Standard Matching Interior   ( INT-FINISHED )"
+    },
+    "Molding_Types": [
+        "BTM822",
+        "CMSM",
+        "X1",
+        "2687",
+        "SM736A",
+        "FBM3",
+        "OCM",
+        "LTM4",
+        "SM736B",
+        "CVEM",
+        "CEM",
+        "TKM",
+        "AM1275",
+        "LTM2.5",
+        "LMOLD4",
+        "OCML",
+        "75",
+        "FBM2",
+        "3215 Bead Molding",
+        "CM942",
+        "FBM1",
+        "SS3",
+        "FBM10",
+        "LMOLD",
+        "BS4",
+        "AM",
+        "CCM",
+        "TKEND",
+        "CM310",
+        "WM2688",
+        "3125",
+        "BSM",
+        "SDAM",
+        "SS6",
+        "BSMSQ",
+        "CVEL",
+        "LTM1.5",
+        "FBM6",
+        "CA"
+    ],
+    "Grades of Wood Species":{
+        "00": [
+            "Nominal grade",
+            "No exposed ends",
+            "Shelves"
+        ],
+        "SS": [
+            "Single sided", 
+            "one side has premium grade", 
+            "one side has nominal grade",
+            "Natural interior or deluxe interior",
+            "One exposed end"
+        ],
+        "DS": [
+            "Double sided",
+            "two sides have premium grade", 
+            "Natural Interior with exposed end",
+            "Deluxe Interior with exposed end",
+            "Deluxe Interior shelves",
+            "Slab Doors"
+        ],
+        "BS": [
+            "Bar Stock",
+            "One sided",
+            "Typically used on island back",
+            "ex Wainscott"
+        ],
+        "Birch": [
+            "see listing"
+        ]
+    },
+    "Accessories": {
+        "ROT": "Roll Out Tray",
+        "PPROT1": "Pot and Pan Roll Out Tray",
+        "PPROT2": "Pot and Pan Roll Out Tray",
+        "VP": "Vertical Partitions",
+        "CS": "Cabinet storage mechanism"
+    }
+}

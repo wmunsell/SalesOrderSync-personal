@@ -1,0 +1,734 @@
+{
+    "customer_id": "3519566000009271041",
+    "salesorder_number": null,
+    "reference_number": "SOBCZYK Kitchen",
+    "sales_order_date": "18 04 2024",
+    "expected_shipment_date": "2025-05-06",
+    "shipment_date": null,
+    "exchange_rate": 1,
+    "Payment_Terms": "Net 15",
+    "delivery_method": null,
+    "wood_species": "Maple",
+    "finish": null,
+    "purchase_order": null,
+    "custom_fields": [
+        {
+            "value": "Maple",
+            "customfield_id": "3519566000000619051"
+        },
+        {
+            "value": "",
+            "customfield_id": "3519566000000628085"
+        },
+        {
+            "value": "",
+            "customfield_id": "3519566000000629095"
+        },
+        {
+            "value": "",
+            "customfield_id": "3519566000000817329"
+        },
+        {
+            "value": "",
+            "customfield_id": "3519566000000955305"
+        }
+    ],
+    "line_items": [
+        {
+            "description": "BMC27-MAP-IPE-MSI",
+            "item_id": "3519566000019504146",
+            "name": "Base Microwave Cabinet - 27\" Maple Integrated Panel End Matching Stain Interior",
+            "quantity": 1,
+            "rate": 849.2588,
+            "item_total": 849.26,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "DB27-3-MAP-00-MSI",
+            "item_id": "3519566000019504185",
+            "name": "Base 3 Drawer Cabinet - 27\" Maple Matching Stained Interior",
+            "quantity": 1,
+            "rate": 939.7498,
+            "item_total": 939.75,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "SCBSS36-MAP-00-MSI",
+            "item_id": "3519566000019504365",
+            "name": "Base Square Corner Cabinet w/RS - 36\" Maple Matching Stain Interior",
+            "quantity": 1,
+            "rate": 1262.0562,
+            "item_total": 1262.06,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "DB21-3-MAP-00-MSI",
+            "item_id": "3519566000020345665",
+            "name": "Frameless Base 3 Drawer 21\" Maple Matching Stain Interior",
+            "quantity": 1,
+            "rate": 869.4582,
+            "item_total": 869.46,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "SDDT21",
+            "item_id": null,
+            "name": null,
+            "quantity": "1",
+            "rate": 303.25280000000004,
+            "item_total": 891.92,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "B33-MAP-00-MSI",
+            "item_id": "3519566000020253394",
+            "name": "Base Cabinet - 33\" Maple Matching Stain Interior",
+            "quantity": 1,
+            "rate": 856.4566,
+            "item_total": 856.46,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "BFH24B-MAP-00-MSI",
+            "item_id": "3519566000019504328",
+            "name": "Base Cabinet FH - 24B\" Two Door Maple Matching Stain Interior",
+            "quantity": 1,
+            "rate": 901.9724,
+            "item_total": 901.97,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "ROT424",
+            "item_id": "3519566000001786854",
+            "name": "Roll Out Trays 4x24x21",
+            "quantity": "2",
+            "rate": 179.59820000000002,
+            "item_total": 1056.46,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "BUCS9-MAP-00-MSI",
+            "item_id": "3519566000019504441",
+            "name": "Base Under Counter Can Storage Cabinet - 9\" Maple Matching Stain Interior",
+            "quantity": 1,
+            "rate": 862.2434,
+            "item_total": 862.24,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "SB36-MAP-FEA-MSI",
+            "item_id": null,
+            "name": null,
+            "quantity": 1,
+            "rate": 718.675,
+            "item_total": 718.68,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "DJBEP34.5-MAP",
+            "item_id": "3519566000019504511",
+            "name": "Decorative J Base End Panel 24\" Deep Maple",
+            "quantity": 1,
+            "rate": 459.5372,
+            "item_total": 459.54,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "WAINSCOT-4-MAP",
+            "item_id": null,
+            "name": null,
+            "quantity": 1,
+            "rate": 1014.441,
+            "item_total": 1014.44,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "6000-TKM-MAP",
+            "item_id": "3519566000001539982",
+            "name": "Toe Kick Molding- Maple",
+            "quantity": 24,
+            "rate": 28.0819,
+            "item_total": 673.97,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "W3342-MAP-IPE-MSI",
+            "item_id": "3519566000019504581",
+            "name": "Wall Cabinet 3342 Maple Integrated Panel End Matching Stain Interior",
+            "quantity": 1,
+            "rate": 915.4874,
+            "item_total": 915.49,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "W3342-MAP-00-MSI",
+            "item_id": "3519566000019504620",
+            "name": "Wall Cabinet 3342 Maple Matching Stain Interior",
+            "quantity": 1,
+            "rate": 752.3996,
+            "item_total": 752.4,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "WDC2748-MAP-FEFE-MSI",
+            "item_id": "3519566000019504704",
+            "name": "Wall Diagonal Cabinet 2748 Maple Finished Ends Matching Stain Interior",
+            "quantity": 1,
+            "rate": 1287.886,
+            "item_total": 1287.89,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "W2742-MAP-FE-MSI",
+            "item_id": null,
+            "name": null,
+            "quantity": 1,
+            "rate": 1119.7016,
+            "item_total": 1119.7,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "SPWH3630-MAP-00-MSI",
+            "item_id": "3519566000019530175",
+            "name": "Wood Hood Straight Panel - 3630 Maple Matching Stained Interior",
+            "quantity": 1,
+            "rate": 1250.7954,
+            "item_total": 1250.8,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "VSL4303RC",
+            "item_id": null,
+            "name": null,
+            "quantity": "1",
+            "rate": 854.4982000000001,
+            "item_total": 2513.23,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "W2742-MAP-FE-MSI",
+            "item_id": null,
+            "name": null,
+            "quantity": 1,
+            "rate": 1119.7016,
+            "item_total": 1119.7,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "W3042-MAP-IPE-MSI",
+            "item_id": null,
+            "name": null,
+            "quantity": 1,
+            "rate": 1291.1058,
+            "item_total": 1291.11,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "6000-CVEL-MAP",
+            "item_id": "3519566000001361183",
+            "name": "Cove Crown Molding Large- Maple",
+            "quantity": 40,
+            "rate": 87.601,
+            "item_total": 3504.04,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "6000-UCM860-MAP",
+            "item_id": "3519566000001361893",
+            "name": "Under Cabinet Molding 860 - Maple",
+            "quantity": 24,
+            "rate": 18.3307,
+            "item_total": 439.94,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "TF396-MAP",
+            "item_id": "3519566000019530202",
+            "name": "Tall Filler 3\" Wide - 96\" Maple",
+            "quantity": 1,
+            "rate": 122.213,
+            "item_total": 122.21,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "U272496-MAP-00-MSI",
+            "item_id": null,
+            "name": null,
+            "quantity": 1,
+            "rate": 2499.3434,
+            "item_total": 2499.34,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "ROT427",
+            "item_id": "3519566000001786879",
+            "name": "Roll Out Trays 4x27x21",
+            "quantity": "4",
+            "rate": 181.84900000000002,
+            "item_total": 2139.4,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "DW242424-MAP-00-MSI",
+            "item_id": null,
+            "name": null,
+            "quantity": 1,
+            "rate": 561.7344,
+            "item_total": 561.73,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "U272496-MAP-00-MSI",
+            "item_id": null,
+            "name": null,
+            "quantity": 1,
+            "rate": 2121.9876,
+            "item_total": 2121.99,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        },
+        {
+            "description": "TF396-MAP",
+            "item_id": "3519566000019530202",
+            "name": "Tall Filler 3\" Wide - 96\" Maple",
+            "quantity": 1,
+            "rate": 122.213,
+            "item_total": 122.21,
+            "tax_id": 3519566000000113321,
+            "tags": [
+                {
+                    "tag_id": "3519566000000000333",
+                    "tag_option_id": "3519566000005113007"
+                },
+                {
+                    "tag_id": "3519566000000000337",
+                    "tag_option_id": "3519566000000955323"
+                }
+            ],
+            "item_custom_fields": [],
+            "project_id": null,
+            "header_name": null,
+            "header_id": null,
+            "unit": "ea"
+        }
+    ]
+}
