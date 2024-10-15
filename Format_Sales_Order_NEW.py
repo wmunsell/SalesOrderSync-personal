@@ -1,5 +1,6 @@
 import json
 from datetime import datetime, timedelta
+from dateutil import parser
 from Zoho_Tools import Zoho_Tools
 from difflib import SequenceMatcher
 from collections import Counter
@@ -218,22 +219,21 @@ class Format_Sales_Order():
             return True
         return False
     
-    def format_dates(self, sales_order_date, expected_shipment_date):
-        # check if the date is in the correct format ie 4/4/2024 not 04/04/24
-
-
+    def format_dates(self, sales_order_date, expected_shipment_date):    
         # Parse the sales order and expected shipment dates
-        sales_order_date = datetime.strptime(sales_order_date, "%Y-%m-%dT%H:%M:%S.%f")
-        expected_shipment_date = datetime.strptime(expected_shipment_date, "%m/%d/%Y")
+        sales_order_date_obj = parser.parse(sales_order_date)
+        expected_shipment_date_obj = parser.parse(sales_order_date)
+
+        # Get today's date
         today = datetime.now()
 
         # Ensure expected shipment date is after both the sales order date and today
-        if expected_shipment_date <= sales_order_date or expected_shipment_date <= today:
-            expected_shipment_date = max(sales_order_date, today) + timedelta(days=1)
+        if expected_shipment_date_obj <= sales_order_date_obj or expected_shipment_date_obj <= today:
+            expected_shipment_date_obj = max(sales_order_date_obj, today) + timedelta(days=1)
 
         # Format the dates back to the desired formats
-        formatted_sales_order_date = sales_order_date.strftime('%d %m %Y')
-        formatted_expected_shipment_date = expected_shipment_date.strftime("%Y-%m-%d")
+        formatted_sales_order_date = sales_order_date_obj.strftime('%d %m %Y')
+        formatted_expected_shipment_date = expected_shipment_date_obj.strftime("%Y-%m-%d")
 
         return formatted_sales_order_date, formatted_expected_shipment_date
 
@@ -285,7 +285,7 @@ class Format_Sales_Order():
         construction = ""
         base_door_style = ""
         purchase_order = ""
-        sales_order_date, expected_shipment_date = self.format_dates(self.json_dict['CreatedByDate'], self.json_dict['AccountNumber'])
+        sales_order_date, expected_shipment_date = self.format_dates(self.json_dict['AccountNumber'], self.json_dict['CreatedByDate'])
         header = {
             "customer_id": self.customer_id, 
             "salesorder_number": None, # self.zt.get_next_salesorder_number(),
